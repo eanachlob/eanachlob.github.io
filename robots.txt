@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eanachlob.github.io/sitemap
+Sitemap: https://eanachlob.github.io/app/sitemap
+Sitemap: https://eanachlob.github.io/assets/sitemap
+Sitemap: https://eanachlob.github.io/css/sitemap
+Sitemap: https://eanachlob.github.io/includes/sitemap
+Sitemap: https://eanachlob.github.io/item/sitemap
+Sitemap: https://eanachlob.github.io/src/sitemap
